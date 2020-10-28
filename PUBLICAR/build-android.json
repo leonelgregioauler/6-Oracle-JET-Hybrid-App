@@ -1,0 +1,11 @@
+{
+  "android": {
+    "release": {
+      "keystore": "C:/Users/LeoMilaAlice/Documents/JAVASCRIPT JQUERY ORDS/JET/navdrawer/JETmobileapp - 6 - Hybrid App/PUBLICAR/jetobe.jks",
+      "storePassword": "MyKeystorePassword",
+      "alias": "myAndroidKey",
+      "password" : "MyKeyPassword",
+      "keystoreType": ""
+    }
+  }
+}
